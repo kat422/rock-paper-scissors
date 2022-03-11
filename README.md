@@ -1,1 +1,3 @@
-# odin-rock-paper-scissors
+# Rock-paper-scissors game in console
+
+Exercise in JacaScript
